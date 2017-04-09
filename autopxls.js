@@ -202,7 +202,7 @@ function AutoPXLS(images){
           continue;
         }
       }
-      setTimeout(draw, 10);
+      setTimeout(draw, 1000);
     }
 
     return;
